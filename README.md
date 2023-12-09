@@ -54,3 +54,6 @@ Finally, we package the script so it can be able to run on Debian.
 Unfortunately, on our final command, we ran into an error. Despite spending time trying to solve the problem, we could not find a solution.
 
 ![](error.png)
+
+
+### Read the Unix Project PDF for the final report.
